@@ -1,0 +1,21 @@
+client/public/
+
+models-db
+models-all
+models-full
+
+evol-db-*.sql
+evol-*.log
+
+node_modules
+bower_components
+
+# Windows stuff
+Thumbs.db
+Desktop.ini
+
+# Mac stuff
+.DS_Store
+
+# WebStorm stuff
+.idea
